@@ -1,0 +1,26 @@
+{
+  "name": "Majestic Towers",
+  "short_name": "Majestic",
+  "description": "Majestic Towers: Refined gaming and seaside serenity",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f9f4f2",
+  "theme_color": "#8c2d3f",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
